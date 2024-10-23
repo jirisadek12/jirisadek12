@@ -1,4 +1,4 @@
-Předpokládám, že se ptáte na kód pro hru Karkuláčka (Karkulka) v JavaScriptu. Níže je jednoduchý příklad, jak by taková hra mohla vypadat. Tento kód vytvoří jednoduchou hru, kde si hráč může vybrat, jak se kůň s Karkulkou pohybuje.
+
 
 ```html
 <!DOCTYPE html>
@@ -52,9 +52,4 @@ Předpokládám, že se ptáte na kód pro hru Karkuláčka (Karkulka) v JavaScr
 </html>
 ```
 
-### Jak to funguje:
-1. **HTML**: Nastavuje základní strukturu pro hru, s tlačítky pro pohyb Karkulky.
-2. **CSS**: Stylizuje herní oblast a Karkulku.
-3. **JavaScript**: Obsahuje logiku pro pohyb Karkulky v rámci herního pole při kliknutí na tlačítka.
 
-Tento příklad je velmi jednoduchý a můžete ho dále rozšiřovat o další funkce, jako jsou překážky, bodování nebo herní cíle.
